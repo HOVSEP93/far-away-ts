@@ -1,5 +1,9 @@
 # Far Away React App ✈️🧳✈️
 
+## Demo
+
+https://far-away-ts.vercel.app/
+
 ## Features
 
 - React Typescript
